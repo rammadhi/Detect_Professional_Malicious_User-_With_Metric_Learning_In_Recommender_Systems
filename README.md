@@ -1,10 +1,10 @@
 # Detecting Professional Malicious Users in Recommender Systems Using Metric Learning
 
-#Overview
+Overview
 
 This project applies Metric Learning to identify malicious users in recommender systems. Using a Siamese Neural Network and Triplet Loss, the model learns user behavior patterns and detects anomalies that indicate fraudulent activity.
 
-#Features
+Features
 
 > Identifies malicious users manipulating recommendations
 
@@ -17,7 +17,7 @@ This project applies Metric Learning to identify malicious users in recommender 
 > Improves recommendation accuracy by removing fake users
 
 
-#Concepts Used
+Concepts Used
 
 * Recommender Systems – Collaborative filtering to predict user preferences
 
@@ -30,13 +30,13 @@ This project applies Metric Learning to identify malicious users in recommender 
 * Anomaly Detection – Identifying users who differ significantly from normal patterns
 
 
-#Real-World Applications
+Real-World Applications
 
-< E-commerce (Amazon, Flipkart) – Detects fake reviews and fraudulent purchases
+> E-commerce (Amazon, Flipkart) – Detects fake reviews and fraudulent purchases
 
-< Streaming Services (Netflix, Spotify) – Identifies bot-generated views and ratings
+> Streaming Services (Netflix, Spotify) – Identifies bot-generated views and ratings
 
-< Social Media (YouTube, TikTok) – Detects artificial likes and engagement manipulation
+> Social Media (YouTube, TikTok) – Detects artificial likes and engagement manipulation
 
-< Financial Fraud Detection – Flags unusual transaction behavior
+> Financial Fraud Detection – Flags unusual transaction behavior
 
