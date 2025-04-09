@@ -6,37 +6,37 @@ This project applies Metric Learning to identify malicious users in recommender 
 
 #Features
 
-✔ Identifies malicious users manipulating recommendations
+> Identifies malicious users manipulating recommendations
 
-✔ Uses Metric Learning to differentiate normal vs. malicious users
+> Uses Metric Learning to differentiate normal vs. malicious users
 
-✔ Implements Siamese Neural Network for user embeddings
+> Implements Siamese Neural Network for user embeddings
 
-✔ Trains with Triplet Loss to improve anomaly detection
+> Trains with Triplet Loss to improve anomaly detection
 
-✔ Improves recommendation accuracy by removing fake users
+> Improves recommendation accuracy by removing fake users
 
 
 #Concepts Used
 
-✔ Recommender Systems – Collaborative filtering to predict user preferences
+* Recommender Systems – Collaborative filtering to predict user preferences
 
-✔ Metric Learning – Learning a similarity function instead of using predefined distances
+* Metric Learning – Learning a similarity function instead of using predefined distances
 
-✔ Siamese Neural Networks – Learning embeddings to compare user behavior
+* Siamese Neural Networks – Learning embeddings to compare user behavior
 
-✔ Triplet Loss – Ensuring malicious users are far from normal users in embedding space
+* Triplet Loss – Ensuring malicious users are far from normal users in embedding space
 
-✔ Anomaly Detection – Identifying users who differ significantly from normal patterns
+* Anomaly Detection – Identifying users who differ significantly from normal patterns
 
 
 #Real-World Applications
 
-📌 E-commerce (Amazon, Flipkart) – Detects fake reviews and fraudulent purchases
+< E-commerce (Amazon, Flipkart) – Detects fake reviews and fraudulent purchases
 
-📌 Streaming Services (Netflix, Spotify) – Identifies bot-generated views and ratings
+< Streaming Services (Netflix, Spotify) – Identifies bot-generated views and ratings
 
-📌 Social Media (YouTube, TikTok) – Detects artificial likes and engagement manipulation
+< Social Media (YouTube, TikTok) – Detects artificial likes and engagement manipulation
 
-📌 Financial Fraud Detection – Flags unusual transaction behavior
+< Financial Fraud Detection – Flags unusual transaction behavior
 
